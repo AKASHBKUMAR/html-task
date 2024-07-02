@@ -82,12 +82,9 @@
     </body>
     </html>
 
-        
-    </body>
-    </html>
 
 ### OUTPUT
-    []
+    ![output-image][https://github.com/AKASHBKUMAR/html-task/blob/main/output.jpg]
   
 ### RESULT
     Thus the program has been completed successfully.  
