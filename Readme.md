@@ -84,7 +84,7 @@
 
 
 ### OUTPUT
-![https://github.com/AKASHBKUMAR/html-task/blob/main/output.jpg?raw=true]
+![](https://github.com/AKASHBKUMAR/html-task/blob/main/output.jpg?raw=true)
   
 ### RESULT
     Thus the program has been completed successfully.  
