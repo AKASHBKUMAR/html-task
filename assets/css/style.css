@@ -1,0 +1,28 @@
+
+*{
+    font-family: Roboto;
+    margin: auto;
+    padding: auto;
+}
+.outer-table-heading{
+    font-weight: bold;
+    text-align: center;
+}
+.outer-table{
+    height: 90vh;
+}
+table,th,td{
+    border: 1px solid black;
+}
+t
+thead{
+    text-align: center;
+}
+.list-squared{
+    list-style-type: square;
+}
+.inner-table{
+    width: 25%;
+    padding: auto;
+    
+}
